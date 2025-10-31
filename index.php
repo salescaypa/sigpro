@@ -31,8 +31,6 @@
             ?>
           </div>
         </section>
-        <!-- /.content -->
-  
   <div class="modal fade rounded-0" id="uni_modal" role='dialog'>
     <div class="modal-dialog modal-md modal-dialog-centered rounded-0" role="document">
       <div class="modal-content rounded-0">
